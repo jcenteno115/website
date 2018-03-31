@@ -28,7 +28,7 @@ p {
     font-family: Helvetica;;
 } 
 
-.myCanvas{
+canvas{
   postiton: relative:
     top: 30 px;
 }
