@@ -5,7 +5,7 @@ a:hover, a:active { text-decoration: none; color:white}
 
 .navigation {
   box-sizing: border-box;
-  background-color: blue;
+  background-color: #2471A3;
   overflow: auto;
   padding: 18px 50px;
   position: relative;
