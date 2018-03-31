@@ -27,3 +27,8 @@ p {
     color: black;
     font-family: Helvetica;;
 } 
+
+canvas{
+  postiton: relative:
+    down: 30 px;
+}
