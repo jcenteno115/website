@@ -3,9 +3,6 @@ a:hover { text-decoration: none; color:blue; }
 a:focus { text-decoration: none; color:black; }
 a:hover, a:active { text-decoration: none; color:white}
 
-
-}
-  
 .navigation {
   box-sizing: border-box;
   background-color: #A3E4D7;
@@ -16,6 +13,7 @@ a:hover, a:active { text-decoration: none; color:white}
   top: 0;
   width: 100%;
   z-index: 999;
+}
  
 body {
     background-color: white;
