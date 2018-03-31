@@ -21,11 +21,12 @@ body {
 }
 h1 {
     color: black;
-    text-algin: center; 
+    position: relative;
+      left: 30px;
 }
 p {
     color: black;
-    font-family: Helvetica;;
+    font-family: Helvetica;
 } 
 
 canvas{
