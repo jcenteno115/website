@@ -19,7 +19,7 @@ body {
     background-color: white;
     
 }
-.name {
+h1 {
     color: black;
     text-algin: center; 
 }
@@ -28,7 +28,7 @@ p {
     font-family: Helvetica;;
 } 
 
-.canvas{
+canvas{
   postiton: relative:
-    top: 30 px;
+    top: 30px;
 }
