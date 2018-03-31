@@ -1,4 +1,7 @@
-
+a:visited { text-decoration: none; color:black; }
+a:hover { text-decoration: none; color:blue; }
+a:focus { text-decoration: none; color:yellow; }
+a:hover, a:active { text-decoration: none; color:black }
 body {
     background-color: white;
     
@@ -8,6 +11,6 @@ h1 {
     text-align: center;
 }
 p {
-    color: white;
+    color: black;
     font-family: Helvetica;;
 } 
