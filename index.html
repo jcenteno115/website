@@ -71,12 +71,18 @@
     </tbody>
     </table>
     
-   <canvas id="myCanvas" width="1200" height="100" style="border:1px solid #000000;"></canvas>   
+   <canvas id="myCanvas" width="900" height="100" style="border:1px solid #000000;"></canvas>   
     <script>
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
 ctx.font = "45px Arial";
 ctx.strokeText("THANK YOU FOR STOPPING BY",10,50);
+var gradient=ctx.createLinearGradient(0,0,c.width,0);
+gradient.addColorStop("0","magenta");
+gradient.addColorStop("0.5","blue");
+gradient.addColorStop("1.0","red");
+ctx.fillStyle = gradient;
+ctx.fillText("THANK YOU FOR STOPPING BY", 10, 90);
 </script>
     
 </body>
