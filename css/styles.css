@@ -14,16 +14,20 @@ a:hover, a:active { text-decoration: none; color:#ECF0F1}
   width: 100%;
   z-index: 999;
 }
+
+.beginning {
+  left: 450px;
+}
  
 body {
-    background-color: white;
-    
+    background-color: white; 
 }
 h1 {
     color: black;
     position: relative;
       left: 450px;
 }
+  
 p {
     color: black;
     font-family: Helvetica;
