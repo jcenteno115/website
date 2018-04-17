@@ -9,7 +9,7 @@ a:hover, a:active { text-decoration: none; color:#ECF0F1}
   overflow: auto;
   padding: 18px 50px;
   position: relative;
-  font-size: 18px;
+  font-size: 20px;
   top: 0;
   width: 100%;
   z-index: 999;
