@@ -16,6 +16,7 @@ a:hover, a:active { text-decoration: none; color:#ECF0F1}
 }
 
 .beginning {
+  position: relative
   left: 450px;
 }
  
