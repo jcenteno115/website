@@ -33,7 +33,7 @@ p {
     font-family: Helvetica;
 } 
 
-canvas{
+.message {
   postiton: relative;
     top: 30px;
 }
