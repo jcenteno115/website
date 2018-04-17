@@ -36,4 +36,5 @@ p {
 .message {
   postiton: relative;
     top: 300px;
+  left: 450px;
 }
