@@ -38,4 +38,7 @@ p {
     top: 300px;
   left: 450px;
 }
-table, td, th { border: 1px solid gray }
+
+table, td, th { 
+  border: 1px solid gray; 
+}
